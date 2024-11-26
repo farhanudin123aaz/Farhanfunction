@@ -1,0 +1,2 @@
+# Farhanfunction
+tugas function
